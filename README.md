@@ -4,7 +4,7 @@
 
 ## 🎓 Sobre Mim
 
-- Estudante de ADS no SENAI
+- Estudante de ADS no SENAC
 - Apaixonado por programação e tecnologia
 - Focado em desenvolvimento de sistemas
 - Buscando evoluir constantemente como desenvolvedor
