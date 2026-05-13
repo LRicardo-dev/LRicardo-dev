@@ -23,6 +23,7 @@ Meu objetivo é atuar como desenvolvedor, adquirir experiência profissional na 
 🚀 Construindo projetos para evoluir minhas habilidades
 
 🤝 Vamos Conectar?
+
 💼 LinkedIn: https://www.linkedin.com/in/luis-ricardo-8204872ba/
 
 📧 Email: lricardoscosta@gmail.com
