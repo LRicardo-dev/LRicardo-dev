@@ -1,26 +1,48 @@
-👨‍💻 Luís Ricardo
+# 👨‍💻 Luís Ricardo
 
-Estudante de tecnologia apaixonado por programação, desenvolvimento de sistemas e aprendizado contínuo. Atualmente cursando ADS (Análise e Desenvolvimento de Sistemas) no SENAI, buscando evoluir minhas habilidades técnicas e construir projetos que gerem impacto real através da tecnologia.
+---
 
-Tenho interesse em desenvolvimento de software, backend, banco de dados e criação de soluções modernas. Estou constantemente estudando, praticando e desenvolvendo projetos para ganhar experiência e crescer profissionalmente na área da programação.
+## 🎓 Sobre Mim
 
-🚀 Tecnologias e Ferramentas
-C#
-.NET
-SQL Server
-HTML / CSS
-Git & GitHub
-Lógica de Programação
-Banco de Dados
-📌 Objetivo Profissional
-Meu objetivo é atuar como desenvolvedor, adquirir experiência profissional na área da tecnologia e evoluir constantemente como programador, participando de projetos inovadores e criando soluções úteis e modernas.
+- Estudante de ADS no SENAI
+- Apaixonado por programação e tecnologia
+- Focado em desenvolvimento de sistemas
+- Buscando evoluir constantemente como desenvolvedor
+- Interesse em backend, banco de dados e software
 
-🎯 Atualmente
-📚 Estudando ADS no SENAC
-💻 Aprendendo programação e desenvolvimento de sistemas
-🚀 Construindo projetos para evoluir minhas habilidades
+---
 
-🤝 Vamos Conectar?
-💼 LinkedIn: https://www.linkedin.com/in/luis-ricardo-8204872ba/
+## 🛠️ Tecnologias & Ferramentas
 
-📧 Email: lricardoscosta@gmail.com
+- 💻 HTML
+- 🎨 CSS
+- ⚙️ C#
+- 🖥️ .NET
+- 🗄️ SQL
+- 🔧 Git & GitHub
+
+---
+
+## 📚 Atualmente
+
+- 📖 Estudando programação e desenvolvimento de sistemas
+- 🚀 Criando projetos para ganhar experiência
+- 💡 Aprendendo novas tecnologias
+- 🎯 Evoluindo minhas habilidades técnicas diariamente
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é crescer profissionalmente na área da tecnologia, participar de projetos inovadores e me tornar um desenvolvedor cada vez mais qualificado.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: ricardocosta@gmail.com
+- 💼 LinkedIn:
+  www.linkedin.com/in/luís-ricardo-8204872ba/
+
+---
+
