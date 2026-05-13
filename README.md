@@ -40,9 +40,9 @@ Meu objetivo é crescer profissionalmente na área da tecnologia, participar de 
 
 ## 📫 Contato
 
-- 📧 Email: ricardocosta@gmail.com
+- 📧 Email:lricardoscosta@gmail.com
 - 💼 LinkedIn:
-  www.linkedin.com/in/luís-ricardo-8204872ba/
+  https://www.linkedin.com/in/luis-ricardo-8204872ba/
 
 ---
 
