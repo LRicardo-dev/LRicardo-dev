@@ -97,7 +97,7 @@ Busco oportunidades para aprender, evoluir e construir uma carreira sólida como
 
 # 📬 Contato
 
-- 📧 Email: ricardoscosta@gmail.com
+- 📧 Email: lricardoscosta@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/luis-ricardo-8204872ba/
 
 ---
